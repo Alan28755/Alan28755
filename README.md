@@ -1,8 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Alan28755?theme=rule34">
 
-## Alan
-
-喜欢游戏
+![Modern C++ template][github-sub-title:img]
 
 ### **技术栈:**
 
@@ -19,11 +17,10 @@ unity
 
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan28755&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan28755&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan28755&layout=compact&langs_count=6)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Alan
