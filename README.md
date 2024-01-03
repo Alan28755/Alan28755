@@ -8,7 +8,7 @@
 
 
 
-<img src=[github-sub-title:img] width=200% />
+<img src=https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Alan width=200%/>
 
 
 
