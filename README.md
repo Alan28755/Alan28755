@@ -1,23 +1,16 @@
-<img align="right" src="https://count.getloli.com/get/@:Alan28755?theme=rule34">
+
+
+<div id="title" align=center>
 
 ![Modern C++ template][github-sub-title:img]
+
+<img align="middle" src="https://count.getloli.com/get/@:Alan28755?theme=rule34">
 
 ### **技术栈:**
 
 unity
 
 ### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Alan28755&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Alan28755&show_icons=true&theme=vue)
-
-
-
-
-
-<div id="title" align=center>
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan28755&show_icons=true&theme=radical)
 
